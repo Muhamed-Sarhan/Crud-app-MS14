@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "name": "Muhamed Sarhan",
+      "username": "Mu",
+      "email": "muhamedsarhan14@gmail.com",
+      "phone": "0102 734 5533",
+      "id": 1
+    },
+    {
+      "name": "Omar Sarhan",
+      "username": "Omar",
+      "email": "omar23@gmail.com",
+      "phone": "011254863214",
+      "id": 2
+    },
+    {
+      "name": "Abd El-Rahman",
+      "username": "Abdo",
+      "email": "abdo10@yahoo.com",
+      "phone": "01235541234",
+      "id": 3
+    },
+    {
+      "name": "Karim Ali",
+      "username": "Mando",
+      "email": "kemo85@aflam.com",
+      "phone": "012025584232",
+      "id": 4
+    },
+    {
+      "name": "Salma Alaa",
+      "username": "So",
+      "email": "salmasoly59@gmail.com",
+      "phone": "015012356412",
+      "id": 5
+    }
+  ]
+}
